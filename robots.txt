@@ -1,3 +1,4 @@
 Disallow:/assets/
 User-agent: *
 Disallow:
+Sitemap: sitemap.xml
