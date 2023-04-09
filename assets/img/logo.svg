@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" transform="matrix(1,0,0,1,0,0)"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 125"
-	 style="enable-background:new 0 0 300 125;" xml:space="preserve">
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 3004.8 1252"
+	 style="enable-background:new 0 0 3004.8 1252;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#74B3FF;}
 	.st1{fill:#26CF9E;}
@@ -15,21 +15,22 @@
 <g id="root">
 	<g id="content" transform="matrix(1,0,0,1,0,1)">
 		<g>
-			<path id="prefix-NrV-矩形" class="st0" d="M5.8,19.4L57.4,0.7l23.2,18.7L31.4,39.3L5.8,19.4z"/>
-			<path id="prefix-XQH-矩形备份-2" class="st1" d="M294.3,20.4L242.7,1.7l-23.2,18.7l49.2,19.9L294.3,20.4z"/>
-			<path id="prefix-6-b-矩形备份-3" class="st2" d="M294.3,106.8l-53.1-17.5L221,106.8l52,18.4L294.3,106.8z"/>
-			<path id="prefix-_yE-矩形备份-4" class="st3" d="M294.7,21.1l-25.5,20v56.4l25.5,8.2V21.1z"/>
-			<path id="prefix-ed3-矩形备份" class="st4" d="M5.7,105.8l53.1-17.5L79,105.8l-52,18.4L5.7,105.8z"/>
-			<path id="prefix-eLn-矩形" class="st5" d="M5.3,20.1l25.5,20v56.4l-25.5,8.2V20.1z"/>
+			<path id="prefix-NrV-矩形" class="st0" d="M52.3,188.5L571.2,0.5l233.3,188.1L309.7,388.6L52.3,188.5z"/>
+			<path id="prefix-XQH-矩形备份-2" class="st1" d="M2953.5,198.6L2434.6,10.5l-233.3,188.1l494.8,200.1L2953.5,198.6z"/>
+			<path id="prefix-6-b-矩形备份-3" class="st2" d="M2953.5,1067.4l-534-176l-203.1,176l522.9,185L2953.5,1067.4z"/>
+			<path id="prefix-_yE-矩形备份-4" class="st3" d="M2957.5,205.6l-256.4,201.1v567.2l256.4,82.5V205.6z"/>
+			<path id="prefix-ed3-矩形备份" class="st4" d="M51.3,1057.4l534-176l203.1,176l-522.9,185L51.3,1057.4z"/>
+			<path id="prefix-eLn-矩形" class="st5" d="M47.3,195.5l256.4,201.1v567.2l-256.4,82.5C47.3,1046.3,47.3,195.5,47.3,195.5z"/>
 		</g>
 		<g id="name_and_slogan_id">
 			<g>
 				<g id="nameDefaultGroup">
-					<path class="st6" d="M66.1,75.2V40.6h13.5c5,0,8.9,0.9,11.6,2.7c2.7,1.7,4.1,4.5,4.1,8.5c0,4.5-2.3,7.6-7,9.4l9,10.6L90,76.1
-						L79.6,62.8h-4.1v12.4H66.1z M79.6,55.9c2,0,3.6-0.4,4.8-1.2c1.2-0.7,1.8-1.8,1.8-3.3c0-1.4-0.6-2.5-1.8-3.3
-						c-1.2-0.7-2.8-1.1-4.8-1.1h-4.3v8.9H79.6z M138.5,75.2h-28.9V40.6h28v6.2h-18.9v7.1h17.4v6.7h-17.3v7.2h19.7V75.2L138.5,75.2z
-						 M185.9,40.7v6.6h-12.6v27.9H164V47.2h-12.9v-6.6H185.9z M227.5,75.2h-28.9V40.6h28v6.2h-18.9v7.1H225v6.7h-17.3v7.2h19.7
-						L227.5,75.2L227.5,75.2z"/>
+					<path class="st6" d="M658.7,749.6V401.7h135.8c50.3,0,89.5,9.1,116.7,27.2c27.2,17.1,41.2,45.3,41.2,85.5
+						c0,45.3-23.1,76.4-70.4,94.5l90.5,106.6L899,758.7L794.4,624.9h-41.2v124.7H658.7z M794.4,555.6c20.1,0,36.2-4,48.3-12.1
+						c12.1-7,18.1-18.1,18.1-33.2c0-14.1-6-25.1-18.1-33.2c-12.1-7-28.2-11.1-48.3-11.1h-43.2v89.5H794.4z M1386.8,749.6h-290.6
+						V401.7h281.6V464h-190.1v71.4h175v67.4h-174v72.4h198.1V749.6L1386.8,749.6z M1863.4,402.7v66.4h-126.7v280.6h-93.5V468.1
+						h-129.7v-66.4h350V402.7z M2281.8,749.6h-290.6V401.7h281.6V464h-190.1v71.4h174v67.4h-174v72.4h198.1L2281.8,749.6
+						L2281.8,749.6z"/>
 				</g>
 			</g>
 		</g>
